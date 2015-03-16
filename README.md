@@ -8,3 +8,9 @@ This just contains library file with external pinout (not represented smd pins o
 ## Module footprint
 
 -- To Do --
+
+## License
+
+This work is under CC-BY-SA 3.0 license 
+
+![cc-by-sa License](/cc-by-sa_0.png)
